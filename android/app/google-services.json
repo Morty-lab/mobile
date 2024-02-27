@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066115185291",
+    "project_id": "mobile-special-exam",
+    "storage_bucket": "mobile-special-exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066115185291:android:308633dbeade34f789b28e",
+        "android_client_info": {
+          "package_name": "com.example.mobile_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrtoREr78syapQcPmK3rsvImTPN_BlWZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
